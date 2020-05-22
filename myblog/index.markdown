@@ -15,6 +15,6 @@ layout: home
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
   {% endfor %}
-</ul>
+
 
 <
