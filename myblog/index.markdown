@@ -4,7 +4,7 @@ Hello World! Welcome to the homepage of my blog!
 layout: home
 ---
 
-{{ content }}
+
 
 <ul class="post-list">
   {% for post in site.posts %}
@@ -16,5 +16,4 @@ layout: home
       </h2>
   {% endfor %}
 
-
-<
+{{ content }}
