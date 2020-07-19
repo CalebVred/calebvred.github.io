@@ -1,0 +1,6 @@
+---
+layout: post
+author: Caleb Vredevoogd
+---
+
+This is a test post. Testing...testing...1...2...3...
