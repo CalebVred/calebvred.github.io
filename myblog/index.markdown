@@ -3,8 +3,7 @@ Hello World! Welcome to the homepage of my blog!
 
 layout: home
 ---
-
-
+{{ content }}
 
 <ul class="post-list">
   {% for post in site.posts %}
@@ -15,5 +14,3 @@ layout: home
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
   {% endfor %}
-
-{{ content }}
