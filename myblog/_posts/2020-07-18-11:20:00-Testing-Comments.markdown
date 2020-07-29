@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Testing Comments...
 author: Caleb Vredevoogd
 date: 2020-07-18 11:20:00
