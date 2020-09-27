@@ -14,8 +14,6 @@ As of right now RACHEL can work just fine on the Raspberry Pi 3, but not the 3B+
 
 Professor Schuurman wanted me to get the RACHEL front-end fully functioning on the Raspberry Pi 4. However, on top of that he wanted me to also write out easy to understand step-by-step instructions so that somebody could manually install RACHEL on a fresh image of Raspberry Pi OS. This involved setting up four main parts: a wireless access point to connect with a student computer; a LAMP web server to run the RACHEL front end; the RACHEL front end itself to hold the modules and last but not least the educational modules themselves.
 
-We sourced our instructions from various tutorials around the web as well as the original RACHEL code for reference on what libraries and dependencies were needed.
-
-Speaking of which: in that source code we found a handy python installation script which automated the setup. We decided to write our own imitation of this.
+We sourced our instructions from various tutorials around the web as well as the original RACHEL code for reference on what libraries and dependencies were needed. Speaking of which: in that source code we found a handy python installation script which automated the setup. We decided to write our own imitation of this.
 
 I was working only part time on this project but by late July we got a Raspberry Pi 4 up and running RACHEL just by running our installation script.
