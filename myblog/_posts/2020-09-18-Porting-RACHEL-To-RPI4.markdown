@@ -2,7 +2,7 @@
 layout: post
 title: Porting RACHEL to the Raspberry Pi 4
 author: Caleb Vredevoogd
-date: 09-18-2020
+date: 09-18-2020 11:20:00
 ---
   	Since this past summer I have been working on porting the educational software RACHEL (Remote Access Community Hotspot for Education and Learning) to the Raspberry Pi 4. A professor Schuurman, professor of mine introduced me to the project when I was asking him about something else Raspberry Pi-related. It seemed like a fun challenge, so I went with it.
 
