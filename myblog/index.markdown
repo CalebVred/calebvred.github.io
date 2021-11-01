@@ -1,5 +1,4 @@
 ---
-Hello World! Welcome to the homepage of my blog!
 
 layout: home
 ---
