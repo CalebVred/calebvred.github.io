@@ -9,3 +9,4 @@ Calvin University. This blog is pretty experimental right now. I have only a cou
 -Caleb Vredevoogd, author
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/caleb-vredevoogd-71515a166/)
+Find out how to support me [here]()
