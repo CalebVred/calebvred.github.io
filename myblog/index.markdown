@@ -3,7 +3,8 @@ title: Home
 layout: default
 ---
 
-Posts:
+# Posts:
+
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
