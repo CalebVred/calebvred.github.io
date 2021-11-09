@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-menus: header
+
 permalink: /about/
 ---
 Hello! My name is Caleb Vredevoogd and I am a Computer Science student at
