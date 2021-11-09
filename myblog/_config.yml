@@ -30,10 +30,11 @@ twitter_username:
 github_username:  CalebVred
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
   - jekyll-menus
+  - jekyll-feed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
