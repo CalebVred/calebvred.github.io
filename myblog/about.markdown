@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About
+menus: header
 permalink: /about/
 ---
 Hello! My name is Caleb Vredevoogd and I am a Computer Science student at
-Calvin University. This blog is pretty experimental right now. I have only a couple of posts right now, but hopefully more will come.
+Calvin University. This blog will host updates on current projects as well as maybe some reviews. I have only a couple of posts right now, but hopefully more will come.
 
 -Caleb Vredevoogd, author
 
