@@ -1,10 +1,6 @@
 ---
 title: Home
 layout: default
-menus:
-  header:
-    title: Home
-    weight: 1
 ---
 
 
