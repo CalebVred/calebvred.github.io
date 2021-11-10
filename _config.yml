@@ -4,3 +4,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-menus
   - jekyll-feed
+header_pages:
+  - myblog/index.md
+  - myblog/about.md
