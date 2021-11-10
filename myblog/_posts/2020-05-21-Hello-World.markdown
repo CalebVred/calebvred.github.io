@@ -1,4 +1,5 @@
 ---
+title: Hello World!
 layout: post
 author: Caleb Vredevoogd
 ---
