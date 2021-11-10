@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Porting RACHEL to the Raspberry Pi 4
 author: Caleb Vredevoogd
 date: 2020-09-18 11:20:00
 tags: project
