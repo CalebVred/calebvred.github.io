@@ -6,6 +6,7 @@ layout: default
 permalink: myblog/about/
 ---
 # About
+
 Hello! My name is Caleb Vredevoogd and I am a Computer Science student at
 Calvin University. My coursework has covered a wide range of software development experience from full stack application development to writing low-level code and scripts for embedded systems. Most of my professional and research experience has involved writing for embedded Linux using both Python and C.
 
