@@ -2,7 +2,7 @@
 layout: page
 title: About
 menus: header
-theme: default
+layout: default
 permalink: myblog/about/
 ---
 Hello! My name is Caleb Vredevoogd and I am a Computer Science student at
