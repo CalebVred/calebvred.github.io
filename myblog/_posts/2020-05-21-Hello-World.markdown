@@ -1,8 +1,6 @@
 
 ---
 layout: post
-author: Caleb Vredevoogd
-date: 2020-05-21 03:32
 comments: true
 ---
 
