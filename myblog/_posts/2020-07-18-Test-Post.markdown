@@ -3,6 +3,7 @@ title: Test Post
 date: 2020-07-18 11:18:00
 layout: post
 author: Caleb Vredevoogd
+comments: true
 ---
 
 This is a test post. Testing...testing...1...2...3...
