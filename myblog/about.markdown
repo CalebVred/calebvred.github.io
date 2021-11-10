@@ -10,7 +10,7 @@ Calvin University. I have a wide range of software development experience. While
 
 On that note, I've also had a lot of professional and personal experience dealing with Linux. It's been my go-to system for daily driving. I'm currently using Pop! OS on my laptop.
 
-This blog will host updates on current projects as well as maybe some reviews. I've been doing a bit of book reading, game playing, movie watching and music listening, so depending on how active I am on this blog you'll hear more thoughts on that as well. I have only a couple of posts right now, but hopefully more will come.
+This blog will host updates on current projects as well as maybe some reviews. I've been doing a bit of book reading, game playing, movie watching and music listening, so depending on how active I am on this blog you'll see more posts about that as well. I have only a couple of posts right now, but hopefully more will come.
 
 -Caleb Vredevoogd, author
 
