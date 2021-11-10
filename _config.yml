@@ -1,10 +1,6 @@
 title: Caleb Vredevoogd
 description: This is my Github page. I'll occasionally post about projects, maybe some reviews.
-about: /myblog/about.markdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-menus
   - jekyll-feed
-header_pages:
-  - myblog/index.md
-  - myblog/about.md
