@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 layout: default
-permalink: myblog/sesume/
+permalink: myblog/resume/
 ---
 # Resume
 
