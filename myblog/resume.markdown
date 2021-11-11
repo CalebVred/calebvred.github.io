@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 layout: default
-permalink: myblog/Resume/
+permalink: myblog/sesume/
 ---
 # Resume
 
@@ -69,4 +69,3 @@ Language Proficiency: Spanish (Advanced)
 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/caleb-vredevoogd-71515a166/)
-
