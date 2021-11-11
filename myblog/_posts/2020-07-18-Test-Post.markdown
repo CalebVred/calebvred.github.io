@@ -6,4 +6,6 @@ author: Caleb Vredevoogd
 comments: true
 ---
 
+#Test Post
+
 This is a test post. Testing...testing...1...2...3...
