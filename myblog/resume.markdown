@@ -66,6 +66,7 @@ Language Proficiency: Spanish (Advanced)
 ​    • Assembled skids to hold furniture parts
 ​    • Built crates for parts orders, using specific measurements
 
-
+Download a copy of my resume as a [Word Document](https://www.dropbox.com/s/2w4p63m4m5vseum/Caleb%20Vredevoogd-%20Resume.docx?dl=0) or [PDF](https://www.dropbox.com/s/2idjrohb1u69utv/Caleb%20Vredevoogd-%20Resume.pdf?dl=0).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/caleb-vredevoogd-71515a166/)
+
