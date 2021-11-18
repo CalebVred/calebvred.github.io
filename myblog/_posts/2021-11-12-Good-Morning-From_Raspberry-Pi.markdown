@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Good Morning From Raspberry Pi - Part 1: Alarm and Message Reading
-author: Caleb Vredevoogd
+layout: post
 date: 2021-11-01 11:00:00
-
+author: Caleb Vredevoogd
+tags: project
+comments: true
 ---
 
 # Good Morning!
