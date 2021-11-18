@@ -17,7 +17,7 @@ I've decided to use Python because it can work on a number of devices, namely a 
 
 Here's the base code for a talking clock script. No alarm function yet, just a TTS library saying the current date and time.
 
-```python
+```
 import pyttsx3
 import time
 
