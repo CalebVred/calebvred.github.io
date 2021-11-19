@@ -1,5 +1,5 @@
 ---
-title: Good Morning From Raspberry Pi Part 1: Alarm and Message Reading
+title: Good Morning From Raspberry Pi Part 1&#58 Alarm and Message Reading
 layout: post
 date: 2021-11-12 11:00:00
 author: Caleb Vredevoogd
