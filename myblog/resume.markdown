@@ -21,8 +21,15 @@ Coursework:
 
 ### Technical Skills   
 
-Computer Skills: Familiar with Python(Eclipse, Pycharm), R (Rstudio), C (Notepad++, VSCode), VirtualBox, MySQL, SSH, Linux command line and Git. Have exposure to C++, C#, Java, Ada, Ruby, Clojure, PHP, React Native and REST API, Heroku and Windows PowerShell
-Language Proficiency: Spanish (Advanced)
+* Familiar with the following languages and technologies: 
+  * Python (Eclipse, Pycharm, VSCode), R (Rstudio), C (Notepad++, VSCode), VirtualBox, MySQL, SSH, Linux command line and Git. 
+
+* Have exposure to the following:
+  * C++, C#, Java, Ada, Ruby, Clojure, PHP, React Native and REST API, Heroku and Windows PowerShell
+
+* Language Proficiency: 
+  * English (Native)
+  * Spanish (Advanced)
 
 ### Experience   
 
@@ -44,20 +51,22 @@ Language Proficiency: Spanish (Advanced)
 * Called patients regarding upcoming appointments, payments, referrals
 * Opened and closed exam rooms to make sure they were stocked and ready for the day
 
-##### Research Project, Grand Rapids, MI
+##### Calvin University, Grand Rapids, MI
 
 ​	ARCHIE PI Research Assistant, Spring 2020 through present
 
 * Ported RACHELPI to Debian Buster and Raspberry Pi 4
 * Wrote easy to understand step-by-step instructions
-* Automated installation through a Python Script
+* Automated ARCHIE/RACHEL installation through a Python Script
 
-##### CalvinHacks, Grand Rapids, MI Winter 2020
+##### CalvinHacks (Hackathon), Calvin University, Grand Rapids, MI 
+
+​	Hacker, Winter 2020
 
 * Researched how to Raspberry Pi Zero as USB HID device and tested solutions
 * Wrote code to use Flic hat as input on Pi Zero HID device
 
-##### Prince Conference Center, Grand Rapids, MI
+##### Prince Conference Center, Calvin University, Grand Rapids, MI
 
 ​	Dishwashing, Fall 2019 through Winter 2020
 
@@ -69,7 +78,7 @@ Language Proficiency: Spanish (Advanced)
 
 ​	Summer Help, Summer 2019, Summer 2020
 
-* Cleaned, touched-up and packed furniture parts for shipping
+* Cleaned and touched-up and packed furniture parts for shipping
 * Assembled skids to hold furniture parts
 * Built crates for parts orders, using specific measurements
 
