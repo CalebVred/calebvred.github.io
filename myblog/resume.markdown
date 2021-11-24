@@ -6,9 +6,6 @@ permalink: myblog/resume/
 ---
 # Resume
 
-Caleb Vredevoogd
-cvredevoogd99@gmail.com
-
 ### Education   
 
 Calvin University, Grand Rapids, MI
@@ -17,7 +14,9 @@ Bachelor of Computer Science, Anticipated April 2022
 
 GPA: 3.14/4.0
 
-Coursework: Data Structures and Algorithms, Computer Engineering, Operating Systems and Networking, Programming Language Concepts, AWS Essential Training for Developers (Linked Learning), Software engineering, Internet of Things, Embedded Systems and Statistics. Taking Geographic Information Systems and Remote Sensing for GIS certification. Planning on Computer Security and Artificial Intelligence for Spring 2022
+Coursework: 
+
+* Data Structures and Algorithms, Computer Engineering, Operating Systems and Networking, Programming Language Concepts, AWS Essential Training for Developers (Linked Learning), Software engineering, Internet of Things, Embedded Systems and Statistics. Taking Geographic Information Systems and Remote Sensing for GIS certification. Planning on Computer Security and Artificial Intelligence for Spring 2022
 
 
 ### Technical Skills   
