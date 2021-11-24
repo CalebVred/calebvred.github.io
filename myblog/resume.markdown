@@ -14,7 +14,7 @@ Bachelor of Computer Science, Anticipated April 2022
 
 GPA: 3.14/4.0
 
-Coursework: 
+### Coursework 
 
 * Data Structures and Algorithms, Computer Engineering, Operating Systems and Networking, Programming Language Concepts, AWS Essential Training for Developers (Linked Learning), Software engineering, Internet of Things, Embedded Systems and Statistics. Taking Geographic Information Systems and Remote Sensing for GIS certification. Computer Security and Artificial Intelligence (expected completion Spring 2022).
 
