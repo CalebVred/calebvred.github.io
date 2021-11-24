@@ -16,20 +16,20 @@ GPA: 3.14/4.0
 
 Coursework: 
 
-* Data Structures and Algorithms, Computer Engineering, Operating Systems and Networking, Programming Language Concepts, AWS Essential Training for Developers (Linked Learning), Software engineering, Internet of Things, Embedded Systems and Statistics. Taking Geographic Information Systems and Remote Sensing for GIS certification. Planning on Computer Security and Artificial Intelligence for Spring 2022
+* Data Structures and Algorithms, Computer Engineering, Operating Systems and Networking, Programming Language Concepts, AWS Essential Training for Developers (Linked Learning), Software engineering, Internet of Things, Embedded Systems and Statistics. Taking Geographic Information Systems and Remote Sensing for GIS certification. Computer Security and Artificial Intelligence (expected completion Spring 2022).
 
 
-### Technical Skills   
+### Skills   
 
-* Familiar with the following languages and technologies: 
+* Familiar with the following programming languages and technologies: 
   * Python (Eclipse, Pycharm, VSCode), R (Rstudio), C (Notepad++, VSCode), VirtualBox, MySQL, SSH, Linux command line and Git. 
 
-* Have exposure to the following:
+* Have exposure to the following programming languages and technologies:
   * C++, C#, Java, Ada, Ruby, Clojure, PHP, React Native and REST API, Heroku and Windows PowerShell
 
-* Language Proficiency: 
+* Spoken and Written Language Proficiency: 
   * English (Native)
-  * Spanish (Advanced)
+  * Spanish (Advanced speaking, intermediate writing)
 
 ### Experience   
 
@@ -80,7 +80,7 @@ Coursework:
 
 * Cleaned and touched-up and packed furniture parts for shipping
 * Assembled skids to hold furniture parts
-* Built crates for parts orders, using specific measurements
+* Built custom crates for parts orders, using specific measurements
 
 Download a copy of my [resume](https://www.dropbox.com/s/2idjrohb1u69utv/Caleb%20Vredevoogd-%20Resume.pdf?dl=0).
 
