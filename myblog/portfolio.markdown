@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Portfolio
 menus: header
 layout: default
