@@ -19,7 +19,6 @@ menus:
     {% endfor %}
 
 # Projects:
-
   <ul class="post-list">
     {% for post in site.portfolio %}
       <li>
@@ -29,4 +28,3 @@ menus:
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
     {% endfor %}
-  
