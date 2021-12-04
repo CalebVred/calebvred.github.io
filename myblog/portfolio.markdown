@@ -10,7 +10,7 @@ Hello! This is where you will see posts about projects I'm currently working on 
 
 # Projects:
 
-<ul>
+<ul class="post-list">
   {% for post in site.portfolio %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
@@ -19,3 +19,4 @@ Hello! This is where you will see posts about projects I'm currently working on 
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
   {% endfor %}
+</ul>
