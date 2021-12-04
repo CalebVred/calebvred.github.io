@@ -7,9 +7,8 @@ menus:
     weight: 1
 ---
 
-  <title>Posts:</title>
-  <div id="target" style="overflow: scroll; height: 250px;">
-
+# Posts:
+<Posts>
     <ul class="post-list">
       {% for post in site.posts %}
         <li>
@@ -19,11 +18,10 @@ menus:
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h2>
       {% endfor %}
-  </div>
+</Posts>
 
-  <title>Projects:</title>
-  <div id="target" style="overflow: scroll; height: 250px;">
-
+# Projects:
+</Projects>
     <ul class="post-list">
       {% for post in site.portfolio %}
         <li>
@@ -33,4 +31,4 @@ menus:
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h2>
       {% endfor %}
-  </div>
+</Projects>  
