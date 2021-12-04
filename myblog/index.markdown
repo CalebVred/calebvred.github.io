@@ -6,31 +6,35 @@ menus:
     title: Home
     weight: 1
 ---
+<div>
 
-# Posts:
-<div id="target" style="overflow: scroll; height: 250px;">
+  <title>Posts:</title>
+  <div id="target" style="overflow: scroll; height: 250px;">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-    {% endfor %}
-</div>
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+      {% endfor %}
+  </div>
 
-# Projects:
-<div id="target" style="overflow: scroll; height: 250px;">
+  <title>Projects:</title>
+  <div id="target" style="overflow: scroll; height: 250px;">
 
-  <ul class="post-list">
-    {% for post in site.portfolio %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
+    <ul class="post-list">
+      {% for post in site.portfolio %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-    {% endfor %}
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+      {% endfor %}
+  </div>
+
+
 </div>
