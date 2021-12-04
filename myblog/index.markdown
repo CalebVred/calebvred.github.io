@@ -13,6 +13,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
     {% endfor %}
+  </ul>
 
 # Projects:
   <ul class="post-list">
@@ -24,3 +25,4 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
     {% endfor %}
+  </ul>
