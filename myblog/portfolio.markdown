@@ -10,7 +10,6 @@ permalink: myblog/portfolio/
 Hello! This is where you will see posts about projects I'm currently working on or have worked on.
 
 # Projects:
-<div id="target" style="overflow: scroll; height: 250px;">
 
   <ul class="post-list">
     {% for post in site.portfolio %}
@@ -21,4 +20,3 @@ Hello! This is where you will see posts about projects I'm currently working on 
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
     {% endfor %}
-</div>
