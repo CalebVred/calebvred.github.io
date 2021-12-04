@@ -7,7 +7,7 @@ permalink: myblog/portfolio/
 
 Hello! This is where you will see posts about projects I'm currently working on or have worked on.
 
-# Projects:
+# Projects
 
 <ul class="post-list">
   {% for post in site.portfolio %}
