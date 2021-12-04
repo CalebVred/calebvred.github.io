@@ -8,7 +8,7 @@ menus:
 ---
 
 # Posts:
-<div id="target" style="overflow: scroll; height: 500px;">
+<div id="target" style="overflow: scroll; height: 250px;">
 
   <ul class="post-list">
     {% for post in site.posts %}
