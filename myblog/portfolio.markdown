@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-menus: header
 layout: default
 permalink: myblog/portfolio/
 ---
