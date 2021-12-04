@@ -6,7 +6,6 @@ menus:
     title: Home
     weight: 1
 ---
-<div>
 
   <title>Posts:</title>
   <div id="target" style="overflow: scroll; height: 250px;">
@@ -35,6 +34,3 @@ menus:
           </h2>
       {% endfor %}
   </div>
-
-
-</div>
