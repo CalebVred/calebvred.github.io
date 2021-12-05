@@ -10,7 +10,7 @@ Hello! This is where you will see posts about projects I'm currently working on 
 # Projects
 
 <ul class="post-list">
-  {% for post in site.project %}
+  {% for post in site.projects %}
     <li>
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
