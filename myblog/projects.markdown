@@ -9,7 +9,7 @@ Hello! This is where you will see posts about projects I'm currently working on 
 
 # Projects
 
-<ul class="post-list">
+<ul>
   {% for post in site.projects %}
     <li>
       <h2>
