@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: default
-permalink: myblog/portfolio/
+permalink: myblog/projects/
 ---
 # About
 
