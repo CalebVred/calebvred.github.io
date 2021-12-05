@@ -4,3 +4,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-menus
   - jekyll-feed
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
