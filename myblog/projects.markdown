@@ -15,5 +15,6 @@ Hello! This is where you will see posts about projects I'm currently working on 
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
+    </li>
   {% endfor %}
 </ul>
