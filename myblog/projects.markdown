@@ -10,7 +10,7 @@ Hello! This is where you will see posts about projects I'm currently working on 
 # Projects
 
 <ul class="post-list">
-  {% for post in site.portfolio %}
+  {% for post in site.project %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
 
