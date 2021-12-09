@@ -3,13 +3,13 @@ title: Home
 layout: default
 ---
 
-# Posts:
-<ul class="post-list">
-  {% for post in site.posts %}
+# Projectss:
+<ul class="project-list">
+  {% for Projects in site.Projectss %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
+      <span class="Projects-meta">{{ Projects.date | date: "%b %-d, %Y"}}</span>
 
       <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <a class="Projects-link" href="{{ Projects.url | relative_url }}">{{ Projects.title | escape }}</a>
       </h2>
   {% endfor %}
