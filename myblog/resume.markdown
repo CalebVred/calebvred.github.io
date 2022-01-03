@@ -12,22 +12,22 @@ Calvin University, Grand Rapids, MI
 
 Bachelor of Computer Science, Anticipated April 2022
 
-GPA: 3.14/4.0
+GPA: 3.2/4.0
 
-### Coursework 
+### Coursework
 
 * Data Structures and Algorithms, Computer Engineering, Operating Systems and Networking, Programming Language Concepts, AWS Essential Training for Developers (Linked Learning), Software engineering, Internet of Things, Embedded Systems and Statistics. Taking Geographic Information Systems and Remote Sensing for GIS certification. Computer Security and Artificial Intelligence (expected completion Spring 2022).
 
 
 ### Skills   
 
-* Familiar with the following programming languages and technologies: 
-  * Python (Eclipse, Pycharm, VSCode), R (Rstudio), C (Notepad++, VSCode), VirtualBox, MySQL, SSH, Linux command line and Git. 
+* Familiar with the following programming languages and technologies:
+  * Python (Eclipse, Pycharm, VSCode), R (Rstudio), C (Notepad++, VSCode), VirtualBox, MySQL, SSH, Linux command line and Git.
 
 * Have exposure to the following programming languages and technologies:
   * C++, C#, Java, Ada, Ruby, Clojure, PHP, React Native and REST API, Heroku and Windows PowerShell
 
-* Spoken and Written Language Proficiency: 
+* Spoken and Written Language Proficiency:
   * English (Native)
   * Spanish (Advanced speaking, intermediate writing)
 
@@ -59,7 +59,7 @@ GPA: 3.14/4.0
 * Wrote easy to understand step-by-step instructions
 * Automated ARCHIE/RACHEL installation through a Python Script
 
-##### CalvinHacks (Hackathon), Calvin University, Grand Rapids, MI 
+##### CalvinHacks (Hackathon), Calvin University, Grand Rapids, MI
 
 ​	Hacker, Winter 2020
 
@@ -85,4 +85,3 @@ GPA: 3.14/4.0
 Download a copy of my [resume](https://www.dropbox.com/s/2idjrohb1u69utv/Caleb%20Vredevoogd-%20Resume.pdf?dl=0).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/caleb-vredevoogd-71515a166/)
-
